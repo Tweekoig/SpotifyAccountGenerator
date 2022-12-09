@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #121212;
+  color: white
+}
+
+button {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #001212;
+  font-size: 20px;
+  background: #ffffff;
+  text-decoration: none;
+  
+}
